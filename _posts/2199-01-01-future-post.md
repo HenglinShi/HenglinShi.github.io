@@ -1,6 +1,6 @@
 ---
 title: 'Meshed-Memory Transformer for Image Captioning'
-date: 2023-03-028
+date: 2023-03-28
 permalink: /posts/2012/08/Meshed-Memory Transformer for Image Captioning/
 tags:
   - Image captioning
